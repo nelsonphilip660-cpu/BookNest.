@@ -1,0 +1,14 @@
+{
+  "id": "./index.html",
+  "name": "BookNest | Your Online Bookstore",
+  "short_name": "BookNest",
+  "description": "Discover books, stories, educational materials and history documents.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f6ff",
+  "theme_color": "#17132e",
+  "icons": [
+    { "src": "booknest-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
